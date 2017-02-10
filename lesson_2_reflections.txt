@@ -1,0 +1,33 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+   it makes it easy to find any changes made on the file 
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+    it is more effecient since it saves energy and time to go through the whole code lines
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google docs does?
+
+    manually commit help one to chnage only logical changes and help the size not to be too big such that is frustrate. but it can be disadvantegious when not all important changes are saved making size to small. automatically can make it hard to go through since files can be many some with minor changes 
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+   	some files might have same effect or relateion such that keeping them sepqaretly might not make sence on the changes made. while some files depend on the process and purpose of either to separatre them or not
+
+How can you use the commands git log and git diff to view the history of files?
+
+    git log veiw all commits made on the file indicating ID, date, message and the author who made changes while git diff compare the changes made in two files
+
+
+
+How might using version control make you more confident to make changes that could break something?
+
+    because i am able to check wherre i make changes and i can still go back to the old version if the new one is not working, i can redo on the new file checking from the old file.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    Fill in your answer here
+
+How could having easy access to the entire history of a file make you a more effiecient programmer in the long term?
+
+	it helps me in rating my programming skills by checking the previos versions and the new, also help me to know some bugs or code or commplications that i should ommit next time in my code
